@@ -12,4 +12,3 @@ datsets from kaggle Dog vs cat competion  https://www.kaggle.com/c/dogs-vs-cats/
 <br>
 <br>
 ### some test case :-<br>
-![download](https://user-images.githubusercontent.com/44959680/89419937-ab076c00-d74f-11ea-915b-be36b5b5506b.png))
