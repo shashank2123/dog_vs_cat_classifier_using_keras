@@ -11,5 +11,5 @@ datsets from kaggle Dog vs cat competion  https://www.kaggle.com/c/dogs-vs-cats/
 
 <br>
 <br>
-##### some test case :-
-![Alt Text]("C:\Users\shash\Pictures\my_shit\download.png")
+##### some test case :-<br>
+![GitHub Logo](C:\Users\shash\Pictures\my_shit\download.png)
